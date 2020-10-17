@@ -16,7 +16,7 @@ The purpose of the project is to analyse the following data for convincing inves
 
 ## **Summary**
 * There is considerable demand for bikes in weekdays, with 2 to 3 slots of peak hours inidcating the business proposal is feasible.
-*3.30 - 6.30 is the peak time for checkout of bikes on weekdays. Discounts could be offered in no peak hours to encourage bike use at those times and days.
+* 3.30 - 6.30 is the peak time for checkout of bikes on weekdays. Discounts could be offered in non-peak hours to encourage bike use at those times and days.
 * Males use bikes more than females indicating it might be a good idea to have an alternate design of bike more comfortable for females to encourage them to use more.
-* We can create charts for gender distribution at start and end points to see which are the locations where females are ot using bikes at all and work ont he problems in those areas to encourage bike usage by females there.
+* We can create charts for gender distribution at start and end points to see which are the locations where females are not using bikes at all and work on the problems in those areas to encourage bike usage by females there.
 * It would be a good idea to find age distribution vs trip duration to identify which age folks are using bikes more and desing versions of bike more con=mfortable to different age groups.
